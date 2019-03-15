@@ -1,0 +1,11 @@
+/Users/AlexMacPro/Projects/Aula03-AS/Exemplos-Aula03/Exemplos-Aula03/bin/Debug/netcoreapp2.1/Exemplos-Aula03.deps.json
+/Users/AlexMacPro/Projects/Aula03-AS/Exemplos-Aula03/Exemplos-Aula03/bin/Debug/netcoreapp2.1/Exemplos-Aula03.runtimeconfig.json
+/Users/AlexMacPro/Projects/Aula03-AS/Exemplos-Aula03/Exemplos-Aula03/bin/Debug/netcoreapp2.1/Exemplos-Aula03.runtimeconfig.dev.json
+/Users/AlexMacPro/Projects/Aula03-AS/Exemplos-Aula03/Exemplos-Aula03/bin/Debug/netcoreapp2.1/Exemplos-Aula03.dll
+/Users/AlexMacPro/Projects/Aula03-AS/Exemplos-Aula03/Exemplos-Aula03/bin/Debug/netcoreapp2.1/Exemplos-Aula03.pdb
+/Users/AlexMacPro/Projects/Aula03-AS/Exemplos-Aula03/Exemplos-Aula03/obj/Debug/netcoreapp2.1/Exemplos-Aula03.csprojAssemblyReference.cache
+/Users/AlexMacPro/Projects/Aula03-AS/Exemplos-Aula03/Exemplos-Aula03/obj/Debug/netcoreapp2.1/Exemplos-Aula03.csproj.CoreCompileInputs.cache
+/Users/AlexMacPro/Projects/Aula03-AS/Exemplos-Aula03/Exemplos-Aula03/obj/Debug/netcoreapp2.1/Exemplos-Aula03.AssemblyInfoInputs.cache
+/Users/AlexMacPro/Projects/Aula03-AS/Exemplos-Aula03/Exemplos-Aula03/obj/Debug/netcoreapp2.1/Exemplos-Aula03.AssemblyInfo.cs
+/Users/AlexMacPro/Projects/Aula03-AS/Exemplos-Aula03/Exemplos-Aula03/obj/Debug/netcoreapp2.1/Exemplos-Aula03.dll
+/Users/AlexMacPro/Projects/Aula03-AS/Exemplos-Aula03/Exemplos-Aula03/obj/Debug/netcoreapp2.1/Exemplos-Aula03.pdb
